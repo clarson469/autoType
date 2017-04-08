@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "license": "MIT",
   "author": "clarson469",
-  "readme": "README.md", 
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clarson469/autoType"
+  },
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
